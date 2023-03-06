@@ -54,7 +54,7 @@ function draw() {
           fill(0);
         } else {
           // If the mouse is not pressed and the button was not previously pressed, set the button color to gray
-          fill(200);
+          fill(0);
         }
       } else {
         // If the mouse is not over the button, set the button color to gray
